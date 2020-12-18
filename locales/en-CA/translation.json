@@ -1,0 +1,30 @@
+{
+    "close": "Close",
+
+    "appbar": {
+        "sidemenu": "Show side menu",
+        "layers": "Show layers"
+    },
+    "mapnav": {
+        "fullscreen": "Full Screen",
+        "home": "Home",
+        "zoomIn": "Zoom in",
+        "zoomOut": "zoom out"
+    },
+    "mapctrl": {
+        "mouseposition": {
+            "east": "E",
+            "west": "W",
+            "north": "N",
+            "south": "S"
+        }
+    },
+    "sidemenu": {
+        "export": "Export",
+        "fullscreen": "Full Screen",
+        "help": "Help",
+        "layers": "Layers",
+        "share": "Share",
+        "logotext": "Web Presence"
+    }
+}
