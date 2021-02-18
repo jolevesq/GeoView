@@ -1,15 +1,11 @@
 {
     "close": "Fermer",
-
-    "appbar": {
-        "sidemenu": "Afficher le menu de côté",
-        "layers": "Afficher les couches"
-    },
     "mapnav": {
+        "ariaNavbar": "groupe de buttons vertical pour navigation sur la carte",
         "fullscreen": "Plein Écran",
         "home": "Maison",
         "zoomIn": "Zoom avant",
-        "zoomOut": "zoom arrière"
+        "zoomOut": "Zoom arrière"
     },
     "mapctrl": {
         "mouseposition": {
@@ -17,14 +13,17 @@
             "west": "O",
             "north": "N",
             "south": "S"
+        },
+        "overviewmap": {
+            "toggle": "Basculer la mini-carte"
         }
     },
-    "sidemenu": {
+    "appbar": {
         "export": "Exporter",
         "fullscreen": "Plein écran",
         "help": "Aide",
         "layers": "Couches",
         "share": "Partager",
-        "logotext": "Présence web"
+        "version": "Accéder au repo sur GitHub"
     }
 }
