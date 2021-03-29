@@ -20,8 +20,7 @@
 
             // add an event listener when a button is clicked
             addGeoJSONButton.addEventListener('click', function (e) {
-                // adding a geojson layer requires a type of geojson and url
-                const layerID = cgpv.api.map('LYR4').createGeoJSONLayer({
+                const layerID = cgpv.api.map('LYR4').add({
                     type: 'geoJSON',
                     url: 'https://raw.githubusercontent.com/fgpv-vpgf/contributed-plugins/master/chart/src/samples/geoJSON/pieChart.json',
                 });
