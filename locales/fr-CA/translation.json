@@ -38,7 +38,7 @@
     },
     "validation": {
         "layer": {
-            "laodfailed": "La couche __param__ n'est pas chargée sur la carte __param__"
+            "loadfailed": "La couche __param__ n'est pas chargée sur la carte __param__"
         }
     }
 }

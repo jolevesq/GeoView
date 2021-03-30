@@ -38,7 +38,7 @@
     },
     "validation": {
         "layer": {
-            "laodfailed": "Layer __param__ failed to load on map __param__"
+            "loadfailed": "Layer __param__ failed to load on map __param__"
         }
     }
 }
